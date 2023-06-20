@@ -1,0 +1,7 @@
+.env
+/venv
+резерв
+__pycache__
+table.drawio
+tbot
+test
